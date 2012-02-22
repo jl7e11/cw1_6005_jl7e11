@@ -1,6 +1,6 @@
 Source: cw1-6005-jl7e11
 Section: project
-Priority: optional
+Priority: extra
 Maintainer: 
 	Jintao Liu <jl7e11@ecs.soton.ac.uk>
 Build-Depends: debhelper (>= 8.0.0)
