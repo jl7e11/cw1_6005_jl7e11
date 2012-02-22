@@ -1,0 +1,63 @@
+#!/usr/bin/make -f
+# -*- makefile -*-
+# Sample debian/rules that uses debhelper.
+# This file was originally written by Joey Hess and Craig Small.
+# As a special exception, when this file is copied by dh-make into a
+# dh-make output file, you may use that output file without restriction.
+# This special exception was added by Craig Small in version 0.37 of dh-make.
+
+# Uncomment this to turn on verbose mode.
+#export DH_VERBOSE=1
+
+script = $(CURDIR)/usr/share
+conf = $(CURDIR)/etc/cw1-6005-jl7e11/feeds.conf
+index = $(CURDIR)/usr/share/cw1-6005-jl7e11/index.php
+rss = $(CURDIR)/usr/share/cw1-6005-jl7e11/rss_php.php
+
+build: 
+	dh_testdir
+	touch build-stamp
+
+clean:
+	dh_testdir
+	dh_testroot
+	rm -f build-stamp
+	dh_clean
+
+install: build clean $(script) $(conf) $(index) $(rss)
+	dh_testdir
+	dh_testroot
+	dh_prep
+	dh_installdirs
+
+	mkdir -m 755 -p $($(CURDIR)/debian/cw1-6005-jl7e11/usr/share/cw1-6005-jl7e11)
+	mkdir -m 755 -p $($(CURDIR)/debian/cw1-6005-jl7e11/usr/share)
+	mkdir -m 755 -p $($(CURDIR)/debian/cw1-6005-jl7e11/etc/cw1-6005-jl7e11)
+
+	install -m 644 $(index) $($(CURDIR)/debian/cw1-6005-jl7e11/usr/share/cw1-6005-jl7e11)
+	install -m 644 $(rss) $($(CURDIR)/debian/cw1-6005-jl7e11/usr/share/cw1-6005-jl7e11)
+	install -m 755 $(script) $($(CURDIR)/debian/cw1-6005-jl7e11/usr/share)
+	install -m 644 $(conf) $($(CURDIR)/debian/cw1-6005-jl7e11/etc/cw1-6005-jl7e11)
+
+# Build architecture-independent files here.
+binary-indep: build install
+	dh_testdir
+	dh_testroot
+	dh_installchangelogs
+	dh_installdocs
+	dh_installexamples
+	dh_installdebconf
+	dh_installman
+	dh_link
+	dh_compress
+	dh_fixperms
+	dh_installdeb
+	dh_gencontrol
+	dh_md5sums
+	dh_builddeb
+
+# Build architecture-dependent files here.
+binary-arch: build install
+
+binary: binary-indep binary-arch
+.PHONY: build clean binary-indep binary-arch binary install
