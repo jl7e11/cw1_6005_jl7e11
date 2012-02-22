@@ -1,19 +1,17 @@
 Source: cw1-6005-jl7e11
-
 Section: project
-
 Priority: extra
-
 Maintainer: 
 	Jintao Liu <jl7e11@ecs.soton.ac.uk>
 Build-Depends: debhelper (>= 8.0.0)
 Standards-Version: 3.9.2
-Homepage: <url::http://github.com/jl7e11/cw1-6005-jl7e11>
-#Vcs-Git: git://git.debian.org/collab-maint/package.git
-#Vcs-Browser: http://git.debian.org/?p=collab-maint/package.git;a=summary
+Homepage: <http://github.com/jl7e11/cw1-6005-jl7e11>
+#Vcs-Git: git://git.debian.org/collab-maint/cw1-6005-jl7e11.git
+#Vcs-Browser: http://git.debian.org/?p=collab-maint/cw1-6005-jl7e11.git;a=summary
 
 Package: cw1-6005-jl7e11
 Architecture: all
 Depends: ${misc:Depends}
 Description: <It is jerry's INO6005 coursework.>
+<Welcome to jerry's INO6005 coursework.>
 
