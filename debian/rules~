@@ -15,7 +15,7 @@ index = $(CURDIR)/usr/share/cw1-6005-jl7e11/index.php
 rss = $(CURDIR)/usr/share/cw1-6005-jl7e11/rss_php.php
 
 a1=$(CURDIR)/debian/cw1-6005-jl7e11/usr/share/cw1-6005-jl7e11
-a2=$(CURDIR)/debian/cw1-6005-jl7e11/usr/share
+a2=$(CURDIR)/debian/cw1-6005-jl7e11/usr/bin
 a3=$(CURDIR)/debian/cw1-6005-jl7e11/etc/cw1-6005-jl7e11
 build: 
 	dh_testdir

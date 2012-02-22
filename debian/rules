@@ -19,12 +19,12 @@ a2=$(CURDIR)/debian/cw1-6005-jl7e11/usr/bin
 a3=$(CURDIR)/debian/cw1-6005-jl7e11/etc/cw1-6005-jl7e11
 build: 
 	dh_testdir
-	touch build-stamp
+	touch build
 
 clean:
 	dh_testdir
 	dh_testroot
-	rm -f build-stamp
+	rm -f build
 	dh_clean
 
 install: build clean $(script) $(conf) $(index) $(rss)
