@@ -9,7 +9,7 @@
 # Uncomment this to turn on verbose mode.
 #export DH_VERBOSE=1
 
-script = $(CURDIR)/usr/share
+script = $(CURDIR)/usr/bin/cw1-6005-jl7e11
 conf = $(CURDIR)/etc/cw1-6005-jl7e11/feeds.conf
 index = $(CURDIR)/usr/share/cw1-6005-jl7e11/index.php
 rss = $(CURDIR)/usr/share/cw1-6005-jl7e11/rss_php.php
