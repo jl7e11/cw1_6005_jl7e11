@@ -1,5 +1,45 @@
- cw1-6005-jl7e11 (0.0.1) unstable; urgency=low
+cw1_6005_jl7e11 (v0.5) i.e. stable; urgency=low
 
- * Initial Release.
+  [jerry <jl7e11@ecs.soton.ac.uk>]
+  * add compat
 
- -- Jintao Liu <jl7e11@ecs.soton.ac.uk>  Wed, 22 Feb 2012 14:13:43 +0000
+ -- jerry <jl7e11@ecs.soton.ac.uk>  Wed, 22 Feb 2012 16:17:41 +0000
+
+cw1_6005_jl7e11 (v0.4) i.e. stable; urgency=low
+
+  [jerry <jl7e11@ecs.soton.ac.uk>]
+  * add compat
+  * add control
+
+ -- jerry <jl7e11@ecs.soton.ac.uk>  Wed, 22 Feb 2012 16:15:16 +0000
+
+cw1_6005_jl7e11 (v0.3) i.e. stable; urgency=low
+
+  [jerry <jl7e11@ecs.soton.ac.uk>]
+  * add compat
+  * add control
+  * add copyright
+
+ -- jerry <jl7e11@ecs.soton.ac.uk>  Wed, 22 Feb 2012 16:03:16 +0000
+
+cw1_6005_jl7e11 (v0.2) i.e. stable; urgency=low
+
+  [jerry <jl7e11@ecs.soton.ac.uk>]
+  * add compat
+  * add control
+  * add copyright
+  * add usr
+
+ -- jerry <jl7e11@ecs.soton.ac.uk>  Wed, 22 Feb 2012 15:10:27 +0000
+
+cw1_6005_jl7e11 (v0.1) i.e. stable; urgency=low
+
+  [jerry <jl7e11@ecs.soton.ac.uk>]
+  * add compat
+  * add control
+  * add copyright
+  * add usr
+  * first commit
+
+ -- jerry <jl7e11@ecs.soton.ac.uk>  Wed, 22 Feb 2012 15:03:03 +0000
+
