@@ -34,8 +34,8 @@ install: build clean $(script) $(conf) $(index) $(rss)
 	dh_installdirs
 
 	mkdir -m 755 -p $(a1)
-	mkdir -m 755 -p $()
-	mkdir -m 755 -p $()
+	mkdir -m 755 -p $(a2)
+	mkdir -m 755 -p $(a3)
 
 	install -m 644 $(index) $(a1)
 	install -m 644 $(rss) $(a1)
