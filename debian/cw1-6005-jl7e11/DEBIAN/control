@@ -1,0 +1,10 @@
+Package: cw1-6005-jl7e11
+Version: v0.5
+Architecture: all
+Maintainer: 
+ Jintao Liu <jl7e11@ecs.soton.ac.uk>
+Installed-Size: 76
+Section: project
+Priority: optional
+Homepage: <http://github.com/jl7e11/cw1-6005-jl7e11>
+Description: It is jerry's INO6005 coursework.

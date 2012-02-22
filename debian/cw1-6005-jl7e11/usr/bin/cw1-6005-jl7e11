@@ -1,0 +1,2 @@
+PHP='which php'
+$PHP /usr/share/cw1-6005-jl7e11/index.php $@

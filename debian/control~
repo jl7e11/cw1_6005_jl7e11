@@ -12,6 +12,6 @@ Homepage: <http://github.com/jl7e11/cw1-6005-jl7e11>
 Package: cw1-6005-jl7e11
 Architecture: all
 Depends: ${misc:Depends}
-Description: <It is jerry's INO6005 coursework.>
-<Welcome to jerry's INO6005 coursework.>
+Description: It is jerry's INO6005 coursework.
+
 
