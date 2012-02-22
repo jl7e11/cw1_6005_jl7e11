@@ -1,8 +1,7 @@
 Package: cw1-6005-jl7e11
 Version: v0.5
 Architecture: all
-Maintainer: 
- Jintao Liu <jl7e11@ecs.soton.ac.uk>
+Maintainer: Jintao Liu <jl7e11@ecs.soton.ac.uk>
 Installed-Size: 76
 Section: project
 Priority: optional

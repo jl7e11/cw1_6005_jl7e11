@@ -1,11 +1,11 @@
-cw1_6005_jl7e11 (v0.5) i.e. stable; urgency=low
+cw1-6005-jl7e11 (v0.5) i.e. stable; urgency=low
 
   [jerry <jl7e11@ecs.soton.ac.uk>]
   * add compat
 
  -- jerry <jl7e11@ecs.soton.ac.uk>  Wed, 22 Feb 2012 16:17:41 +0000
 
-cw1_6005_jl7e11 (v0.4) i.e. stable; urgency=low
+cw1-6005-jl7e11 (v0.4) i.e. stable; urgency=low
 
   [jerry <jl7e11@ecs.soton.ac.uk>]
   * add compat
@@ -13,7 +13,7 @@ cw1_6005_jl7e11 (v0.4) i.e. stable; urgency=low
 
  -- jerry <jl7e11@ecs.soton.ac.uk>  Wed, 22 Feb 2012 16:15:16 +0000
 
-cw1_6005_jl7e11 (v0.3) i.e. stable; urgency=low
+cw1-6005-jl7e11 (v0.3) i.e. stable; urgency=low
 
   [jerry <jl7e11@ecs.soton.ac.uk>]
   * add compat
@@ -22,7 +22,7 @@ cw1_6005_jl7e11 (v0.3) i.e. stable; urgency=low
 
  -- jerry <jl7e11@ecs.soton.ac.uk>  Wed, 22 Feb 2012 16:03:16 +0000
 
-cw1_6005_jl7e11 (v0.2) i.e. stable; urgency=low
+cw1-6005-jl7e11 (v0.2) i.e. stable; urgency=low
 
   [jerry <jl7e11@ecs.soton.ac.uk>]
   * add compat
@@ -32,7 +32,7 @@ cw1_6005_jl7e11 (v0.2) i.e. stable; urgency=low
 
  -- jerry <jl7e11@ecs.soton.ac.uk>  Wed, 22 Feb 2012 15:10:27 +0000
 
-cw1_6005_jl7e11 (v0.1) i.e. stable; urgency=low
+cw1-6005-jl7e11 (v0.1) i.e. stable; urgency=low
 
   [jerry <jl7e11@ecs.soton.ac.uk>]
   * add compat
