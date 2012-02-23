@@ -1,22 +1,75 @@
-cw1-6005-jl7e11 (v0.6) i.e. stable; urgency=low
+cw1-6005-jl7e11 (v2.1) i.e. stable; urgency=low
 
   [jerry <jl7e11@ecs.soton.ac.uk>]
-  * change compat
-  * add changelog
-  * add etc
-  * Update README
-  * change etc
-  * change usr
-  * deleted files
-  * Merge branch 'master' of github.com:jl7e11/cw1_6005_jl7e11
-  * add bin
-  * add roles
+  * change file
+  * change php
+  * change index.php
+
+ -- jerry <jl7e11@ecs.soton.ac.uk>  Wed, 22 Feb 2012 22:51:38 +0000
+
+cw1-6005-jl7e11 (v2.0) i.e. stable; urgency=low
+
+  [jerry <jl7e11@ecs.soton.ac.uk>]
+  * change file
+  * change php
+  * change index.php
+  * change commit
+  * change commit
+  * change debian
+
+ -- jerry <jl7e11@ecs.soton.ac.uk>  Wed, 22 Feb 2012 21:37:13 +0000
+
+cw1-6005-jl7e11 (v1.9) i.e. stable; urgency=low
+
+  [jerry <jl7e11@ecs.soton.ac.uk>]
+  * change file
+  * change php
+  * change index.php
+  * change commit
+  * change commit
+  * change debian
+  * change changelog
+  * change changelog
   * change roles
-  * change copyright
+  * change changelog
+  * change changelog
+  * change changelog
+  * change changelog
+
+ -- jerry <jl7e11@ecs.soton.ac.uk>  Wed, 22 Feb 2012 21:11:13 +0000
+
+cw1-6005-jl7e11 (v1.8) i.e. stable; urgency=low
+
+  [jerry <jl7e11@ecs.soton.ac.uk>]
+  * change file
+  * change php
+  * change index.php
+  * change commit
+  * change commit
+  * change debian
+  * change changelog
+  * change changelog
+  * change roles
+  * change changelog
+  * change changelog
+  * change changelog
+  * change changelog
   * change control
   * change roles
   * change roles
   * change roles
+
+ -- jerry <jl7e11@ecs.soton.ac.uk>  Wed, 22 Feb 2012 20:06:22 +0000
+
+cw1-6005-jl7e11 (v1.7) i.e. stable; urgency=low
+
+  [jerry <jl7e11@ecs.soton.ac.uk>]
+  * change file
+  * change php
+  * change index.php
+  * change commit
+  * change commit
+  * change debian
   * change changelog
   * change changelog
   * change roles
@@ -24,171 +77,571 @@ cw1-6005-jl7e11 (v0.6) i.e. stable; urgency=low
   * change changelog
   * change changelog
   * change changelog
-  * change commit
+  * change control
+  * change roles
+  * change roles
+  * change roles
+  * change copyright
 
- -- jerry <jl7e11@ecs.soton.ac.uk>  Wed, 22 Feb 2012 21:14:01 +0000
+ -- jerry <jl7e11@ecs.soton.ac.uk>  Wed, 22 Feb 2012 19:31:28 +0000
+
+cw1-6005-jl7e11 (v1.6) i.e. stable; urgency=low
+
+  [jerry <jl7e11@ecs.soton.ac.uk>]
+  * change file
+  * change php
+  * change index.php
+  * change commit
+  * change commit
+  * change debian
+  * change changelog
+  * change changelog
+  * change roles
+  * change changelog
+  * change changelog
+  * change changelog
+  * change changelog
+  * change control
+  * change roles
+  * change roles
+  * change roles
+  * change copyright
+  * change roles
+
+ -- jerry <jl7e11@ecs.soton.ac.uk>  Wed, 22 Feb 2012 19:26:14 +0000
+
+cw1-6005-jl7e11 (v1.5) i.e. stable; urgency=low
+
+  [jerry <jl7e11@ecs.soton.ac.uk>]
+  * change file
+  * change php
+  * change index.php
+  * change commit
+  * change commit
+  * change debian
+  * change changelog
+  * change changelog
+  * change roles
+  * change changelog
+  * change changelog
+  * change changelog
+  * change changelog
+  * change control
+  * change roles
+  * change roles
+  * change roles
+  * change copyright
+  * change roles
+  * add roles
+
+ -- jerry <jl7e11@ecs.soton.ac.uk>  Wed, 22 Feb 2012 19:15:00 +0000
+
+cw1-6005-jl7e11 (v1.4) i.e. stable; urgency=low
+
+  [jerry <jl7e11@ecs.soton.ac.uk>]
+  * change file
+  * change php
+  * change index.php
+  * change commit
+  * change commit
+  * change debian
+  * change changelog
+  * change changelog
+  * change roles
+  * change changelog
+  * change changelog
+  * change changelog
+  * change changelog
+  * change control
+  * change roles
+  * change roles
+  * change roles
+  * change copyright
+  * change roles
+  * add roles
+  * add bin
+
+ -- jerry <jl7e11@ecs.soton.ac.uk>  Wed, 22 Feb 2012 19:09:14 +0000
+
+cw1-6005-jl7e11 (v1.3) i.e. stable; urgency=low
+
+  [jerry <jl7e11@ecs.soton.ac.uk>]
+  * change file
+  * change php
+  * change index.php
+  * change commit
+  * change commit
+  * change debian
+  * change changelog
+  * change changelog
+  * change roles
+  * change changelog
+  * change changelog
+  * change changelog
+  * change changelog
+  * change control
+  * change roles
+  * change roles
+  * change roles
+  * change copyright
+  * change roles
+  * add roles
+  * add bin
+  * Merge branch 'master' of github.com:jl7e11/cw1_6005_jl7e11
+
+ -- jerry <jl7e11@ecs.soton.ac.uk>  Wed, 22 Feb 2012 17:37:25 +0000
+
+cw1-6005-jl7e11 (v1.2) i.e. stable; urgency=low
+
+  [jerry <jl7e11@ecs.soton.ac.uk>]
+  * change file
+  * change php
+  * change index.php
+  * change commit
+  * change commit
+  * change debian
+  * change changelog
+  * change changelog
+  * change roles
+  * change changelog
+  * change changelog
+  * change changelog
+  * change changelog
+  * change control
+  * change roles
+  * change roles
+  * change roles
+  * change copyright
+  * change roles
+  * add roles
+  * add bin
+  * Merge branch 'master' of github.com:jl7e11/cw1_6005_jl7e11
+  * deleted files
+
+ -- jerry <jl7e11@ecs.soton.ac.uk>  Wed, 22 Feb 2012 17:37:14 +0000
+
+cw1-6005-jl7e11 (v1.1) i.e. stable; urgency=low
+
+  [jerry <jl7e11@ecs.soton.ac.uk>]
+  * change file
+  * change php
+  * change index.php
+  * change commit
+  * change commit
+  * change debian
+  * change changelog
+  * change changelog
+  * change roles
+  * change changelog
+  * change changelog
+  * change changelog
+  * change changelog
+  * change control
+  * change roles
+  * change roles
+  * change roles
+  * change copyright
+  * change roles
+  * add roles
+  * add bin
+  * Merge branch 'master' of github.com:jl7e11/cw1_6005_jl7e11
+  * deleted files
+  * change usr
+
+ -- jerry <jl7e11@ecs.soton.ac.uk>  Wed, 22 Feb 2012 17:26:48 +0000
+
+cw1-6005-jl7e11 (v1.0) i.e. stable; urgency=low
+
+  [jerry <jl7e11@ecs.soton.ac.uk>]
+  * change file
+  * change php
+  * change index.php
+  * change commit
+  * change commit
+  * change debian
+  * change changelog
+  * change changelog
+  * change roles
+  * change changelog
+  * change changelog
+  * change changelog
+  * change changelog
+  * change control
+  * change roles
+  * change roles
+  * change roles
+  * change copyright
+  * change roles
+  * add roles
+  * add bin
+  * Merge branch 'master' of github.com:jl7e11/cw1_6005_jl7e11
+  * deleted files
+  * change usr
+  * change etc
+
+ -- jerry <jl7e11@ecs.soton.ac.uk>  Wed, 22 Feb 2012 17:24:32 +0000
+
+cw1-6005-jl7e11 (v0.9) i.e. stable; urgency=low
+
+  [jl7e11 <jl7e11@ecs.soton.ac.uk>]
+  * change file
+  * change php
+  * change index.php
+  * change commit
+  * change commit
+  * change debian
+  * change changelog
+  * change changelog
+  * change roles
+  * change changelog
+  * change changelog
+  * change changelog
+  * change changelog
+  * change control
+  * change roles
+  * change roles
+  * change roles
+  * change copyright
+  * change roles
+  * add roles
+  * add bin
+  * Merge branch 'master' of github.com:jl7e11/cw1_6005_jl7e11
+  * deleted files
+  * change usr
+  * change etc
+  * Update README
+
+ -- jl7e11 <jl7e11@ecs.soton.ac.uk>  Wed, 22 Feb 2012 17:07:36 +0000
+
+cw1-6005-jl7e11 (v0.8) i.e. stable; urgency=low
+
+  [jerry <jl7e11@ecs.soton.ac.uk>]
+  * change file
+  * change php
+  * change index.php
+  * change commit
+  * change commit
+  * change debian
+  * change changelog
+  * change changelog
+  * change roles
+  * change changelog
+  * change changelog
+  * change changelog
+  * change changelog
+  * change control
+  * change roles
+  * change roles
+  * change roles
+  * change copyright
+  * change roles
+  * add roles
+  * add bin
+  * Merge branch 'master' of github.com:jl7e11/cw1_6005_jl7e11
+  * deleted files
+  * change usr
+  * change etc
+  * Update README
+  * add changelog
+  * add etc
+
+ -- jerry <jl7e11@ecs.soton.ac.uk>  Wed, 22 Feb 2012 17:05:17 +0000
+
+cw1-6005-jl7e11 (v0.7) i.e. stable; urgency=low
+
+  [jerry <jl7e11@ecs.soton.ac.uk>]
+  * change file
+  * change php
+  * change index.php
+  * change commit
+  * change commit
+  * change debian
+  * change changelog
+  * change changelog
+  * change roles
+  * change changelog
+  * change changelog
+  * change changelog
+  * change changelog
+  * change control
+  * change roles
+  * change roles
+  * change roles
+  * change copyright
+  * change roles
+  * add roles
+  * add bin
+  * Merge branch 'master' of github.com:jl7e11/cw1_6005_jl7e11
+  * deleted files
+  * change usr
+  * change etc
+  * Update README
+  * add changelog
+  * add etc
+  * first commit
+  * add usr
+  * add copyright
+  * add control
+  * add compat
+  * change compat
+
+ -- jerry <jl7e11@ecs.soton.ac.uk>  Wed, 22 Feb 2012 16:27:45 +0000
+
+cw1-6005-jl7e11 (v0.6) i.e. stable; urgency=low
+
+  [jerry <jl7e11@ecs.soton.ac.uk>]
+  * change file
+  * change php
+  * change index.php
+  * change commit
+  * change commit
+  * change debian
+  * change changelog
+  * change changelog
+  * change roles
+  * change changelog
+  * change changelog
+  * change changelog
+  * change changelog
+  * change control
+  * change roles
+  * change roles
+  * change roles
+  * change copyright
+  * change roles
+  * add roles
+  * add bin
+  * Merge branch 'master' of github.com:jl7e11/cw1_6005_jl7e11
+  * deleted files
+  * change usr
+  * change etc
+  * Update README
+  * add changelog
+  * add etc
+  * first commit
+  * add usr
+  * add copyright
+  * add control
+  * add compat
+  * change compat
+  * first commit
+
+ -- jerry <jl7e11@ecs.soton.ac.uk>  Wed, 22 Feb 2012 15:03:03 +0000
 
 cw1-6005-jl7e11 (v0.5) i.e. stable; urgency=low
 
   [jerry <jl7e11@ecs.soton.ac.uk>]
-  * change compat
-  * add changelog
-  * add etc
-  * Update README
-  * change etc
-  * change usr
-  * deleted files
-  * Merge branch 'master' of github.com:jl7e11/cw1_6005_jl7e11
-  * add bin
-  * add roles
+  * change file
+  * change php
+  * change index.php
+  * change commit
+  * change commit
+  * change debian
+  * change changelog
+  * change changelog
   * change roles
-  * change copyright
+  * change changelog
+  * change changelog
+  * change changelog
+  * change changelog
   * change control
   * change roles
   * change roles
   * change roles
-  * change changelog
-  * change changelog
+  * change copyright
   * change roles
-  * change changelog
-  * change changelog
-  * change changelog
-  * change changelog
-  * change commit
+  * add roles
+  * add bin
+  * Merge branch 'master' of github.com:jl7e11/cw1_6005_jl7e11
+  * deleted files
+  * change usr
+  * change etc
+  * Update README
+  * add changelog
+  * add etc
+  * first commit
+  * add usr
+  * add copyright
+  * add control
   * add compat
+  * change compat
+  * first commit
+  * first commit
 
- -- jerry <jl7e11@ecs.soton.ac.uk>  Wed, 22 Feb 2012 16:17:41 +0000
+ -- jerry <jl7e11@ecs.soton.ac.uk>  Wed, 22 Feb 2012 15:03:03 +0000
 
 cw1-6005-jl7e11 (v0.4) i.e. stable; urgency=low
 
   [jerry <jl7e11@ecs.soton.ac.uk>]
-  * change compat
-  * add changelog
-  * add etc
-  * Update README
-  * change etc
-  * change usr
-  * deleted files
-  * Merge branch 'master' of github.com:jl7e11/cw1_6005_jl7e11
-  * add bin
-  * add roles
+  * change file
+  * change php
+  * change index.php
+  * change commit
+  * change commit
+  * change debian
+  * change changelog
+  * change changelog
   * change roles
-  * change copyright
+  * change changelog
+  * change changelog
+  * change changelog
+  * change changelog
   * change control
   * change roles
   * change roles
   * change roles
-  * change changelog
-  * change changelog
+  * change copyright
   * change roles
-  * change changelog
-  * change changelog
-  * change changelog
-  * change changelog
-  * change commit
-  * add compat
+  * add roles
+  * add bin
+  * Merge branch 'master' of github.com:jl7e11/cw1_6005_jl7e11
+  * deleted files
+  * change usr
+  * change etc
+  * Update README
+  * add changelog
+  * add etc
+  * first commit
+  * add usr
+  * add copyright
   * add control
+  * add compat
+  * change compat
+  * first commit
+  * first commit
+  * first commit
 
- -- jerry <jl7e11@ecs.soton.ac.uk>  Wed, 22 Feb 2012 16:15:16 +0000
+ -- jerry <jl7e11@ecs.soton.ac.uk>  Wed, 22 Feb 2012 15:03:03 +0000
 
 cw1-6005-jl7e11 (v0.3) i.e. stable; urgency=low
 
   [jerry <jl7e11@ecs.soton.ac.uk>]
-  * change compat
-  * add changelog
-  * add etc
-  * Update README
-  * change etc
-  * change usr
-  * deleted files
-  * Merge branch 'master' of github.com:jl7e11/cw1_6005_jl7e11
-  * add bin
-  * add roles
+  * change file
+  * change php
+  * change index.php
+  * change commit
+  * change commit
+  * change debian
+  * change changelog
+  * change changelog
   * change roles
-  * change copyright
+  * change changelog
+  * change changelog
+  * change changelog
+  * change changelog
   * change control
   * change roles
   * change roles
   * change roles
-  * change changelog
-  * change changelog
+  * change copyright
   * change roles
-  * change changelog
-  * change changelog
-  * change changelog
-  * change changelog
-  * change commit
-  * add compat
-  * add control
+  * add roles
+  * add bin
+  * Merge branch 'master' of github.com:jl7e11/cw1_6005_jl7e11
+  * deleted files
+  * change usr
+  * change etc
+  * Update README
+  * add changelog
+  * add etc
+  * first commit
+  * add usr
   * add copyright
+  * add control
+  * add compat
+  * change compat
+  * first commit
+  * first commit
+  * first commit
+  * first commit
 
- -- jerry <jl7e11@ecs.soton.ac.uk>  Wed, 22 Feb 2012 16:03:16 +0000
+ -- jerry <jl7e11@ecs.soton.ac.uk>  Wed, 22 Feb 2012 15:03:03 +0000
 
 cw1-6005-jl7e11 (v0.2) i.e. stable; urgency=low
 
-  [jerry <jl7e11@ecs.soton.ac.uk>]
-  * change compat
-  * add changelog
-  * add etc
-  * Update README
-  * change etc
-  * change usr
-  * deleted files
-  * Merge branch 'master' of github.com:jl7e11/cw1_6005_jl7e11
-  * add bin
-  * add roles
+  [ <>]
+  * change file
+  * change php
+  * change index.php
+  * change commit
+  * change commit
+  * change debian
+  * change changelog
+  * change changelog
   * change roles
-  * change copyright
+  * change changelog
+  * change changelog
+  * change changelog
+  * change changelog
   * change control
   * change roles
   * change roles
   * change roles
-  * change changelog
-  * change changelog
+  * change copyright
   * change roles
-  * change changelog
-  * change changelog
-  * change changelog
-  * change changelog
-  * change commit
-  * add compat
-  * add control
-  * add copyright
+  * add roles
+  * add bin
+  * Merge branch 'master' of github.com:jl7e11/cw1_6005_jl7e11
+  * deleted files
+  * change usr
+  * change etc
+  * Update README
+  * add changelog
+  * add etc
+  * first commit
   * add usr
+  * add copyright
+  * add control
+  * add compat
+  * change compat
+  * first commit
+  * first commit
+  * first commit
+  * first commit
 
- -- jerry <jl7e11@ecs.soton.ac.uk>  Wed, 22 Feb 2012 15:10:27 +0000
+ -- jerry <jl7e11@ecs.soton.ac.uk>  Wed, 22 Feb 2012 15:03:03 +0000
 
 cw1-6005-jl7e11 (v0.1) i.e. stable; urgency=low
 
   [jerry <jl7e11@ecs.soton.ac.uk>]
-  * change compat
-  * add changelog
-  * add etc
-  * Update README
-  * change etc
-  * change usr
-  * deleted files
-  * Merge branch 'master' of github.com:jl7e11/cw1_6005_jl7e11
-  * add bin
-  * add roles
+  * change file
+  * change php
+  * change index.php
+  * change commit
+  * change commit
+  * change debian
+  * change changelog
+  * change changelog
   * change roles
-  * change copyright
+  * change changelog
+  * change changelog
+  * change changelog
+  * change changelog
   * change control
   * change roles
   * change roles
   * change roles
-  * change changelog
-  * change changelog
+  * change copyright
   * change roles
-  * change changelog
-  * change changelog
-  * change changelog
-  * change changelog
-  * change commit
-  * add compat
-  * add control
-  * add copyright
+  * add roles
+  * add bin
+  * Merge branch 'master' of github.com:jl7e11/cw1_6005_jl7e11
+  * deleted files
+  * change usr
+  * change etc
+  * Update README
+  * add changelog
+  * add etc
+  * first commit
   * add usr
+  * add copyright
+  * add control
+  * add compat
+  * change compat
+  * first commit
+  * first commit
+  * first commit
+  * first commit
   * first commit
 
  -- jerry <jl7e11@ecs.soton.ac.uk>  Wed, 22 Feb 2012 15:03:03 +0000
