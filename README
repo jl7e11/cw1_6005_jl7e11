@@ -1,1 +1,20 @@
 welcome to jerry's INFO6005 coursework.
+
+HOW TO RUN cw1-6005-jl7e11 STEP BY STEP
+
+The cw1-6005-jl7e11 is a RSS reader, which is Jerry's coursework of INFO6005 Rich Application in Southampton University.
+
+  1. Open the Linux PC.
+
+  2. Running terminal.
+
+  3. Install cw1-6005-jl7e11 
+ 
+            dpkg -i cw1-6005-jl7e11_2.1_all.deb
+
+  4. Running cw1-6005-jl7e11
+
+            cw1-6005-jl7e11
+
+  5. If BBC news is printed in the terminal,
+     Congratulations! You already installed and runned the software successful. Enjoy it.
