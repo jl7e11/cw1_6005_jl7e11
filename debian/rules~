@@ -10,21 +10,23 @@
 #export DH_VERBOSE=1
 
 script = $(CURDIR)/usr/bin/cw1-6005-jl7e11
-conf = $(CURDIR)/etc/cw1-6005-jl7e11/feeds.conf
+
 index = $(CURDIR)/usr/share/cw1-6005-jl7e11/index.php
 rss = $(CURDIR)/usr/share/cw1-6005-jl7e11/rss_php.php
+conf = $(CURDIR)/etc/cw1-6005-jl7e11/feeds.conf
 
-a1=$(CURDIR)/debian/cw1-6005-jl7e11/usr/share/cw1-6005-jl7e11
-a2=$(CURDIR)/debian/cw1-6005-jl7e11/usr/bin
-a3=$(CURDIR)/debian/cw1-6005-jl7e11/etc/cw1-6005-jl7e11
+d1=$(CURDIR)/debian/cw1-6005-jl7e11/usr/share/cw1-6005-jl7e11
+d2=$(CURDIR)/debian/cw1-6005-jl7e11/usr/bin
+d3=$(CURDIR)/debian/cw1-6005-jl7e11/etc/cw1-6005-jl7e11
+
 build: 
 	dh_testdir
-	touch build-stamp
+	touch build
 
 clean:
 	dh_testdir
 	dh_testroot
-	rm -f build-stamp
+	rm -f build
 	dh_clean
 
 install: build clean $(script) $(conf) $(index) $(rss)
@@ -33,14 +35,14 @@ install: build clean $(script) $(conf) $(index) $(rss)
 	dh_prep
 	dh_installdirs
 
-	mkdir -m 755 -p $(a1)
-	mkdir -m 755 -p $(a2)
-	mkdir -m 755 -p $(a3)
+	mkdir -m 755 -p $(d1)
+	mkdir -m 755 -p $(d2)
+	mkdir -m 755 -p $(d3)
 
-	install -m 644 $(index) $(a1)
-	install -m 644 $(rss) $(a1)
-	install -m 755 $(script) $(a2)
-	install -m 644 $(conf) $(a3)
+	install -m 644 $(index) $(d1)
+	install -m 644 $(rss) $(d1)
+	install -m 755 $(script) $(d2)
+	install -m 644 $(conf) $(d3)
 
 # Build architecture-independent files here.
 binary-indep: build install
